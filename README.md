@@ -17,27 +17,30 @@ https://aesearch-media.vercel.app
 - 🎬 Video Preview on Hover  
 - 🖼 Progressive Image Loading  
 - ❤️ Save to Collection (Redux + localStorage)  
-- 🧠 Smart Caching for Faster Results  
 
 ---
 
 ## 🛠 Tech Stack
 
-- ⚛️ React (Vite)
-- 🧠 Redux Toolkit
-- 🎨 Tailwind CSS
-- 🌐 Unsplash API
-- 🎥 Pexels API
-- 😂 Giphy API
+- ⚛️ React (Vite)  
+- 🧠 Redux Toolkit  
+- 🎨 Tailwind CSS  
+- 🌐 Unsplash API  
+- 🎥 Pexels API  
+- 😂 Giphy API  
 
 ---
 
 ## 📸 Screenshots
 
+### 🏠 Home
+![Home](./assets/Home.png)
 
+### 🔍 Results
+![Results](./assets/Results.png)
 
-
-
+### ❤️ Collection
+![Collection](./assets/Collection.png)
 
 ---
 
